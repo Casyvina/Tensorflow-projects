@@ -415,14 +415,14 @@ Contact [Joseph Agwuh](JospehAgwuh@gmail.com)
 
 ## Status
 
-As of: 01 Sep 2023
+As of: 02 Sep 2023
 
 Course still going on! 🕺
 
 Any further updates/changes will be added below. 
   
 ## Log
-
+* 01 Sep 2023 - Completed Part Transfer Learning Course no(154 - 181)
 * 31 Aug 2023 - recreated a TensorFlow Transfer Learning ppt. & completed leraning 15 lecture no(154 - 169)
 * 30 Aug 2023 - Completed Part one of TensorFlow Transfer learning no(142 - 153)
 * 29 Aug 2023 - Completed CV and CNN Section 5 (105 -141)
